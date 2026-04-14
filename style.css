@@ -225,7 +225,7 @@ main img{
 
 }
 article p{
-  font-size: clamp(2rem, 2vw, 3rem);
+  font-size: clamp(2rem, 4vw, 3rem);
   line-height: 1.2em;
 }
 
@@ -247,6 +247,8 @@ table{
   border-collapse: collapse;
   font-size: clamp(1.5rem, 2vw, 4rem);
   background-color: rgba(145, 255, 145, 0.457);
+  border: 2px solid black;
+  border-radius: .6em;
 }
 
 table tr{
