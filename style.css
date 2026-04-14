@@ -225,7 +225,7 @@ main img{
 
 }
 article p{
-  font-size: clamp(2rem, 4vw, 3rem);
+  font-size: clamp(2rem, 3vw, 3rem);
   line-height: 1.2em;
 }
 
