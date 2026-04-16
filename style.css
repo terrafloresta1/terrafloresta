@@ -165,7 +165,6 @@ h2{
     background-color: rgb(255, 255, 255);
     padding: .5em;
     font-weight: bold;
-    border-bottom: 5px solid red;
 }
 
 
@@ -238,7 +237,7 @@ main img{
 
 
 article p{
-  font-size: clamp(2rem, 2vw, 2rem);
+  font-size: clamp(1rem, 2vw, 2rem);
   line-height: 1.2em;
 }
 
