@@ -112,6 +112,7 @@ header{
     font-size: clamp(3rem, 6vw, 7rem);
     text-align: end;
     font-family: 'Anton', sans-serif;
+    color: red;
 
   }
   p{
