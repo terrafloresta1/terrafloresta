@@ -340,9 +340,15 @@ footer{
   flex-direction: column;
   justify-content: space-between;
   padding: 1em;
+  h5{
+  font-size:clamp(2.5rem, 4vw, 5rem;
+    
+  padding: 1em 0
+     }
   p{
-    font-size: clamp(1.5rem, 4vw, 2rem);
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
     line-height: .8;
+    padding-bottom: 2em;
 }
 
 
